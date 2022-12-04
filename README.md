@@ -1,7 +1,7 @@
 <div align="center">
 
-  <img src="urban_renewal_plan.png" alt="logo" width="200" height="auto" />
-  <h1> Fuzzy Systems </h1>
+  <img src="3-Simple-Ways-to-Optimise-Logistics-Systems-in-your-Business.webp" alt="logo" width="200" height="auto" />
+  <h1> logistic transportation system </h1>
   
   <p>
     Planning a big logistic transportation system
